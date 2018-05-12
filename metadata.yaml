@@ -1,0 +1,56 @@
+_repo: The-Journal-of-Submarine-Commander-von-Forstner_30114
+_version: 0.1.0
+alternative_title: Als U-Boots-Kommandant gegen England. English
+contributor:
+  commentator:
+    agent_name: Hammond, John Hays
+    alias: Hammond, Jack
+    birthdate: 1888
+    deathdate: 1965
+    gutenberg_agent_id: '34379'
+    url: http://www.gutenberg.org/2009/agents/34379
+  translator:
+    agent_name: Codman, Russell, Mrs.
+    aliases:
+    - Codman, Mrs. Russell
+    - Codman, Anna Kneeland Crafts
+    birthdate: 1869
+    gutenberg_agent_id: '34380'
+    url: http://www.gutenberg.org/2009/agents/34380
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Forstner, Georg-Günther, Freiherr von
+    aliases:
+    - Forstner, G. G. (Georg Günther), Freiherr von
+    - Von Forstner, Georg-Günther, Freiherr
+    - Forstner, Georg-Gunther, Freiherr von
+    - Forstner, George Günther, Freiherr von
+    - Forstner, Günther Georg, Freiherr von
+    birthdate: 1882
+    deathdate: 1940
+    gutenberg_agent_id: '34377'
+    url: http://www.gutenberg.org/2009/agents/34377
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2009-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30114'
+  lccn: '18000008'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Submarine captains -- Germany -- Biography'
+- !lcsh 'Forstner, Georg-Günther, Freiherr von, 1882-1940 -- Diaries'
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Personal narratives'
+- !lcsh 'Submarine warfare'
+- !lcsh 'World War, 1914-1918 -- Naval operations -- Submarine'
+- !lcsh 'World War, 1914-1918 -- Naval operations, German'
+title: The Journal of Submarine Commander von Forstner
+url: http://www.gutenberg.org/ebooks/30114
