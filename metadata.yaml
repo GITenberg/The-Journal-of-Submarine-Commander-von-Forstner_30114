@@ -34,6 +34,8 @@ creator:
     gutenberg_agent_id: '34377'
     url: http://www.gutenberg.org/2009/agents/34377
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30114#The-Journal-of-Submarine-Commander-von-Forstner
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2009-09-27'
 gutenberg_type: Text
